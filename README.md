@@ -1,5 +1,4 @@
-# Coding Practice: Two Number Summation
-
+# Coding Practice: Valid Subsequence Solution 1
 This project is meant for me to practice coding interview questions with Python.
 In this project, I am presented with the following task: given two 
 non-empty arrays of integers, write a function that determines whether the 
